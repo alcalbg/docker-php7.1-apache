@@ -20,6 +20,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt update && apt upgrade -y && apt install -
     php7.1 \
     php7.1-bcmath \
     php7.1-mcrypt \
+    php7.1-gd \
     php7.1-mbstring \
     php7.1-mysql \
     php7.1-sqlite3 \
