@@ -3,6 +3,7 @@ Docker image with old php 7.1 running on apache2 with usual php extensions:
 
 - php7.1
 - php7.1-bcmath
+- php7.1-gd
 - php7.1-mcrypt
 - php7.1-mbstring
 - php7.1-mysql
